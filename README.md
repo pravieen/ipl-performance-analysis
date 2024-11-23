@@ -53,6 +53,8 @@ The dataset contains the following columns:
 
 <img width="1129" alt="Screenshot 2024-11-23 at 8 34 28 PM" src="https://github.com/user-attachments/assets/a5708035-0c75-47ec-98d0-6f075854fb85">
 <img width="1086" alt="Screenshot 2024-11-23 at 8 38 04 PM" src="https://github.com/user-attachments/assets/c7670936-2790-4aad-a206-77b78bb8ea31">
+<img width="799" alt="Screenshot 2024-11-23 at 8 38 57 PM" src="https://github.com/user-attachments/assets/d842eff4-e02c-472e-a7c4-882a7bffea3e">
+
 
 
 
