@@ -51,4 +51,10 @@ The dataset contains the following columns:
 - **Match Outcomes**: A deeper analysis of the correlation between runs and wickets for different winners.
 - **Winning Strategies**: Insights into how the winning team performs based on toss decisions.
 
+<img width="1129" alt="Screenshot 2024-11-23 at 8 34 28 PM" src="https://github.com/user-attachments/assets/a5708035-0c75-47ec-98d0-6f075854fb85">
+<img width="1094" alt="Screenshot 2024-11-23 at 8 35 27 PM" src="https://github.com/user-attachm
+<img width="853" alt="Screenshot 2024-11-23 at 8 36 09 PM" src="https://github.com/user-attachments/assets/19597d52-4fa4-47ff-a04f-97b2ba32223e">
+ents/assets/55d407f4-1f3f-459f-825c-ca2643cac9df">
+
+
 .
